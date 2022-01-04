@@ -1,0 +1,15 @@
+body {
+    font: normal 18pt arial;
+    font-family: verdana;
+}
+.container{
+    text-align: center;
+}
+input{
+    font: normal 18pt arial;
+    width: 100px;
+    
+}
+div#res{
+    margin-top: 20px;
+}
